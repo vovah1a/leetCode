@@ -1,0 +1,6 @@
+go 1.21.6
+
+use (
+	./problems/001.twoSum
+	./problems/002.addTwoNumbers
+)
