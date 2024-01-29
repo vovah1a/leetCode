@@ -1,7 +1,7 @@
 go 1.21.6
 
 use (
-	"./problems/003. longestSubstringWithoutRepeatingCharacters"
+	"./problems/003.longestSubstringWithoutRepeatingCharacters"
 	./problems/001.twoSum
 	./problems/002.addTwoNumbers
 )
