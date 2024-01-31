@@ -7,4 +7,6 @@ use (
 	./problems/004.medianOfTwoSortedArrays
 	./problems/005.longestPalindromicSubstring
 	./problems/006.zigzagConversion
+	./problems/007.reverseInteger
+	./problems/011.containerWithMostWater
 )
