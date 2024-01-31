@@ -6,4 +6,5 @@ use (
 	./problems/003.longestSubstringWithoutRepeatingCharacters
 	./problems/004.medianOfTwoSortedArrays
 	./problems/005.longestPalindromicSubstring
+	./problems/006.zigzagConversion
 )
