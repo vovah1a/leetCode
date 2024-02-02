@@ -10,4 +10,5 @@ use (
 	./problems/007.reverseInteger
 	./problems/011.containerWithMostWater
 	./problems/012.integerToRoman
+	./problems/015.3Sum
 )
