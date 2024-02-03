@@ -11,4 +11,5 @@ use (
 	./problems/011.containerWithMostWater
 	./problems/012.integerToRoman
 	./problems/015.3Sum
+	./problems/016.3SumClosest
 )
