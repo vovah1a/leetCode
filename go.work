@@ -13,4 +13,5 @@ use (
 	./problems/015.3Sum
 	./problems/016.3SumClosest
 	./problems/029.divideTwoIntegers
+	./problems/031.nextPermutation
 )
